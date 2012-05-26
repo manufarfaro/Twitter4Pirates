@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/aaaarrgh/code/!svn/ver/49/trunk/src/t4p/servicios
+END
+UserPassPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/aaaarrgh/code/!svn/ver/42/trunk/src/t4p/servicios/UserPassPredicate.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/aaaarrgh/code/!svn/ver/49/trunk/src/t4p/servicios/UserService.java
+END
+TweetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/aaaarrgh/code/!svn/ver/49/trunk/src/t4p/servicios/TweetService.java
+END
+ServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/aaaarrgh/code/!svn/ver/42/trunk/src/t4p/servicios/ServiceLocator.java
+END

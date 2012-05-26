@@ -1,0 +1,34 @@
+10
+
+dir
+55
+https://svn.code.sf.net/p/aaaarrgh/code/trunk/WebContent/WEB-INF
+https://svn.code.sf.net/p/aaaarrgh/code
+
+
+
+2011-12-02T23:46:02.346548Z
+49
+manufarfaro
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e4591f32-f772-4b21-a50f-bb442d22e3b3
+
+classes
+dir
+
+lib
+dir
+

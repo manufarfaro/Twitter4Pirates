@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/aaaarrgh/code/!svn/ver/42/trunk/WebContent/WEB-INF/lib
+END
+t4p-dao.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/aaaarrgh/code/!svn/ver/42/trunk/WebContent/WEB-INF/lib/t4p-dao.jar
+END
+t4p-model.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/aaaarrgh/code/!svn/ver/42/trunk/WebContent/WEB-INF/lib/t4p-model.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/aaaarrgh/code/!svn/ver/42/trunk/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar
+END
