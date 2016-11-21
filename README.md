@@ -3,14 +3,6 @@ UNLAM - Twitter4Pirates
 
 Proyecto creado con motivos academicos, El mismo consiste en un Trabajo Práctico realizado para la materia Taller Web JAVA, dentro de las consignas se pedía crear una aplicacion web twitter-like para piratas, el mismo tuvo como objetivo el de la introducción a la tecnología Java EE Servlet.
 
-Autores
-=======
-
-* [Soledad Macario](mailto:solmacario@gmail.com)
-* [Priscila Parafita](mailto:priscilaparafita@gmail.com)
-* [Blas Moyano](mailto:blasmoyano@gmail.com)
-* [Emanuel Farfaro Ruiz](mailto:manufarfaro@gmail.com)
-
 Requisitos
 ==========
 
